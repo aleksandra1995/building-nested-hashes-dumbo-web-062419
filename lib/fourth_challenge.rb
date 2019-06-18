@@ -33,7 +33,7 @@ def fourth_challenge
         attitude: "worried"
         #your hashes here!} }
       ]
-   }
+   
 }
 
   
